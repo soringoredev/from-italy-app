@@ -3,11 +3,10 @@ package pixel.academy.setter_injection_app.common;
 import org.springframework.stereotype.Component;
 
 @Component
-public class FrenchChef implements Chef {
-
+public class MexicanChef implements Chef {
 
     @Override
     public String getDailyRecipe() {
-        return "Preparez un Boeuf Bourgignon ..";
+        return "Mexican Tacos ...";
     }
 }
