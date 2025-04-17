@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="09c53b12-49db-4719-ab13-1ccf3f22dbb3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pixel/academy/setter_injection_app/SetterInjectionAppApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pixel/academy/setter_injection_app/common/Chef.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pixel/academy/setter_injection_app/common/FrenchChef.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pixel/academy/setter_injection_app/common/ItalianChef.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pixel/academy/setter_injection_app/common/MexicanChef.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pixel/academy/setter_injection_app/common/TurkishChef.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pixel/academy/setter_injection_app/rest/DemoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pixel/academy/setter_injection_app/SetterInjectionAppApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pixel/academy/setter_injection_app/SetterInjectionAppApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pixel/academy/setter_injection_app/common/Chef.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pixel/academy/setter_injection_app/common/FrenchChef.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pixel/academy/setter_injection_app/common/ItalianChef.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pixel/academy/setter_injection_app/common/MexicanChef.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pixel/academy/setter_injection_app/common/TurkishChef.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pixel/academy/setter_injection_app/rest/DemoController.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2vjEc3jHWtNmA9LtRd56t2yuiQV" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.SetterInjectionAppApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Sorin/Desktop/proiecteGit/springboot-lazy-app",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="SetterInjectionAppApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="setter-injection-app" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pixel.academy.setter_injection_app.SetterInjectionAppApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09c53b12-49db-4719-ab13-1ccf3f22dbb3" name="Changes" comment="" />
+      <created>1744650159175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744650159175</updated>
+      <workItem from="1744650160338" duration="2987000" />
+      <workItem from="1744902900348" duration="90000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
